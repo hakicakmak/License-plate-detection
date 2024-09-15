@@ -1,0 +1,23 @@
+
+ChatGPT
+Projeyi kullanmak için aşağıdaki adımları takip edebilirsiniz:
+
+Resim Seçimi:
+Arayüzde bulunan "Resim Seç" butonuna tıklayarak, "Resimler" klasörüne eklediğiniz istediğiniz resmi seçin.
+
+Örnek görüntüler "Resimler" klasöründe hali hazırda mevcuttur.
+
+Resim Onayı:
+Seçtiğiniz resmin adını ve uzantısını girerek "Onayla" butonuna basın.
+
+Tespite Başlama:
+"Onayla" butonuna bastıktan sonra, "Tespit Et" butonuna tıklayarak resminizdeki rakamı tanıma işlemini başlatabilirsiniz.
+
+Kütüphane Yüklemeleri:
+Projeyi çalıştırmadan önce, gerekli kütüphaneleri yüklemek için terminal veya komut istemcisine aşağıdaki komutu yazabilirsiniz:
+
+pip install -r requirements.txt
+
+
+Ayarlamalar Dosyası:
+Projedeki "Ayarlamalar.py" dosyasını açarak işletim sistemine uygun olan "os" değişkenini güncelleyin.
